@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oliver
 - 👀 I’m interested in Making Linux more user friendly and applications more compatible
-- 🌱 I’m currently learning How JavaScript works to get into Bug Bounties
+- 🌱 I’m currently learning How JavaScript works to get into Bug Bounties and building my own website
 - 💞️ I’m looking to collaborate on Anything really
 - 📫 How to reach me discord @Aqueerious
 - 😄 Pronouns: They/He
